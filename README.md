@@ -1,13 +1,13 @@
 <!-- Profil Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+U%C4%9Fur+K%C4%B1l%C4%B1%C3%A7aslan;Jr.+Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+U%C4%9Fur+K%C4%B1l%C4%B1%C3%A7aslan;Jr.+Full+Stack Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 <h3 align="center">🚀 About Me</h3>
 
-- 🔭 I’m currently working on **a secure mobile app using Ionic, Node.js, and MongoDB**  
+- 🔭 I’m currently working on **web applications using MERN Stack and Electron.js, with a focus on backend development** (also exploring mobile app development)  
 - 🌱 Learning **Node.js, Express.js, MongoDB, REST APIs**  
 - 👯 Open to collaborate on **full-stack web projects**  
 - 📫 Reach me at **kilicaslanugur0@gmail.com**  
@@ -44,6 +44,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ugurkilicaslan&theme=tokyonight" alt="repos per language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ugurkilicaslan&theme=tokyonight" alt="most commit language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ugurkilicaslan&theme=tokyonight&utcOffset=3" alt="productive time"/>
 </p>
 
 ---
