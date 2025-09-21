@@ -36,6 +36,18 @@
 
 ---
 
+<h3 align="center">📈 Languages & Repos</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurkilicaslan&layout=compact&theme=tokyonight" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ugurkilicaslan&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ugurkilicaslan&theme=tokyonight" alt="most commit language"/>
+</p>
+
+---
+
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ugurkilicaslan&show_icons=true&theme=tokyonight" alt="stats"/>
