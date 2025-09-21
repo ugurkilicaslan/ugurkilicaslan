@@ -49,18 +49,3 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ugurkilicaslan&theme=tokyonight&utcOffset=3" alt="productive time"/>
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ugurkilicaslan&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ugurkilicaslan&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ugurkilicaslan&theme=tokyo-night" alt="activity graph"/>
-</p>
