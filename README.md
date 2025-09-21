@@ -1,6 +1,6 @@
 <!-- Profil Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+U%C4%9Fur+K%C4%B1l%C4%B1%C3%A7aslan;Jr.+Full+Stack Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ugur+Kilicaslan;Jr.+Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
